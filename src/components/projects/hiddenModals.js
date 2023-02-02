@@ -54,7 +54,7 @@ export default function HiddenModals() {
             
             ref: "./ContactList/index.html",
             description: [
-                "Developed a todolist with the help of HTML,CSS,javascript and react in this application we can remember what things we have to perform and can remove it after the work is done"
+                "Developed a ContactLIst with the help of HTML,CSS,javascript and react in this application we can add the contacts (Gmails) of different people and also delete it if not in use."
                 
             ]
         }
